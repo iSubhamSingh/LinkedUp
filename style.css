@@ -47,7 +47,7 @@ a{
 .navbar-center ul li a::after{
     content: '';
     width: 0;
-    height: 2px;
+    height: 3px;
     background: #045be6;
     position: absolute;
     bottom: -15px;
@@ -61,7 +61,7 @@ a{
 
 
 .nav-profile-img{
-    width: 40px;
+    width: 42px;
     border-radius: 50%;
     display: block;
     cursor: pointer;
