@@ -6,6 +6,7 @@ This project is a basic front-end clone of LinkedIn, created using HTML , CSS an
 
 - Mimics LinkedIn's user interface with static content
 - Simple and clean design for personal and professional information
+- No backend is associated, only the frontend design of the page is replicated.
 
 ## Pages
 
